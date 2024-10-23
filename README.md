@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&pause=1000&color=00D800&vCenter=true&random=false&width=435&lines=HELLO%2C+WORLD!++%3D%5D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&pause=1000&color=3C76B1&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Hello+World)](https://git.io/typing-svg)
 
 # Olá! Meu nome é João Lucas Pereira.
 
