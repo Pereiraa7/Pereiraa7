@@ -19,4 +19,4 @@ Sou estudante de Análise e Desenvolvimento de Sistema na Anhembi Morumbi e sou 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pereiraa7&theme=transparent&bg_00D800&=120&section=headershow_icons=true&icon_color=30A3DC&title_color=00D800&text_color=FFF) 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api? type=acenando&height=300&color=gradient&text=Input%20text"/>
+<img alt="Renderização de cápsula" src="blob:https://capsule-render.vercel.app/e0cb1343-ac2a-4cf5-8aae-dcbe6be13899">
