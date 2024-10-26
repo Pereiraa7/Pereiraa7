@@ -18,7 +18,7 @@ Sou estudante de Análise e Desenvolvimento de Sistema na Anhembi Morumbi e sou 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pereiraa7&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)
 
-<img alt="Topo com ondas animadas" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=68D1F7&section=top&text=Input%20text" width="100%" height="100px"/>
+<img alt="Topo com ondas animadas" src="https://capsule-render.vercel.app/api? type=acenando&height=300&color=gradient&text=Input%20text"/>
 
 
 
