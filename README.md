@@ -18,7 +18,7 @@ Sou estudante de Análise e Desenvolvimento de Sistema na Anhembi Morumbi e sou 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pereiraa7&theme=transparent&bg_00D800&=120&section=headershow_icons=true&icon_color=30A3DC&title_color=00D800&text_color=FFF) 
 
-<img alt="Rodapé com ondas animadas" src="https://media.giphy.com/media/l4FGKfUGzjERx7xZq/giphy.gif" width="100%" height="100px"/>
+<img alt="Rodapé com ondas animadas" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=68D1F7&text=Input%20text" width="100%" height="100px"/>
 
 
 
