@@ -8,7 +8,7 @@ Sou estudante de Análise e Desenvolvimento de Sistema na Anhembi Morumbi e sou 
 ```
 ## 🤳Se quiser saber mais sobre mim, ficarei feliz em nos conectarmos!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF?style=for-the-badge&logo=linkedin&logoColor=0)](https://www.linkedin.com/in/jo%C3%A3o-lucas-46b2711b1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF?style=for-the-badge&logo=linkedin&logoColor=#00ffff)](https://www.linkedin.com/in/jo%C3%A3o-lucas-46b2711b1/)
 [![E-mail](https://img.shields.io/badge/-Email-FF?style=for-the-badge&logo=microsoft-outlook&logoColor=0)](mailto:jpramalho07@outlook.com)
 
 ## 🛠️Habilidades
