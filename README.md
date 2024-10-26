@@ -1,12 +1,10 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=68D1F7&height=120&section=header"/>
+
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&pause=1000&color=68D1F7&center=false&vCenter=false&repeat=true&random=false&width=435&lines=Hello+World)](https://git.io/typing-svg)
 
 # Olá! Meu nome é João Lucas Pereira.
-
-<style>
-  body {
-    font-family: 'Krona One', sans-serif;
-  }
-</style>
 
 ```
 Sou estudante de Análise e Desenvolvimento de Sistema na Anhembi Morumbi e sou apaixonado por tecnologia, inovação e música.⌨️👨‍💻
