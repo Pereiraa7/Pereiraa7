@@ -12,7 +12,7 @@ Sou estudante de Análise e Desenvolvimento de Sistema na Anhembi Morumbi e sou 
 ```
 ## 🤳Se quiser saber mais sobre mim, ficarei feliz em nos conectarmos!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-68D1F7?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/jo%C3%A3o-lucas-46b2711b1/) [![Instagram](https://img.shields.io/badge/Instagram-68D1F7?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://www.instagram.com/seu_usuario_aqui/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-68D1F7?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/jo%C3%A3o-lucas-46b2711b1/) [![Instagram](https://img.shields.io/badge/Instagram-68D1F7?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://www.instagram.com/pereiradev7/)
 [![E-mail](https://img.shields.io/badge/-Email-68D1F7?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF)](mailto:jpramalho07@outlook.com) 
 
 
