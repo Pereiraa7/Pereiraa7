@@ -59,12 +59,4 @@
 <br>
 
 
-<!-- SNAKE ANIMATION -->
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Pereiraa7/Pereiraa7/output/github-contribution-grid-snake.svg"
-    alt="Snake animation"
-  />
-</p>
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0C5CA0&height=150&section=footer)
