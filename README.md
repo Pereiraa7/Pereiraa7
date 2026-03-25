@@ -3,7 +3,7 @@
 <!-- HEADER -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=40&duration=3000&pause=500&color=3D96F7&background=00000000&multiline=true&random=false&width=600&height=100&lines=Software+Engineer;Backend+%26+Data+Developer" />
+    <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=40&duration=3000&pause=500&color=3D96F7&background=00000000&multiline=true&random=false&width=600&height=100&lines=Desenvolvedor+de+Software" />
   </a>
 </p>
 
@@ -13,11 +13,11 @@
     <td align="left" width="60%">
 
 <ul>
-  <li>😄 I'm João Lucas</li>
-  <li>🎓 Systems Analysis & Development</li>
-  <li>💻 Backend & Data Developer</li>
-  <li>📊 BI, Dashboards & Automation</li>
-  <li>🇧🇷 Brazilian</li>
+  <li>😄 Sou João Lucas</li>
+  <li>🎓 Formado em Análise e Desenvolvimento de Sistemas</li>
+  <li>💻 Desenvolvedor Backend e Dados</li>
+  <li>📊 Aplicações Back-end | Engenharia de Dados | Automação de Processos</li>
+  <li>🇧🇷 Brasileiro</li>
 </ul>
 
   </td>
@@ -26,7 +26,7 @@
     <img 
       src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"
       width="180"
-      alt="Coding Animation"
+      alt="Animação de Programação"
     />
   </td>
   </tr>
@@ -35,24 +35,22 @@
 <!-- BUTTONS -->
 <p align="center">
   <a href="https://seu-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2F2F2F?style=for-the-badge&logo=About.me&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfólio-2F2F2F?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-lucas-46b2711b1/" target="_blank">
+  <a href="https://www.linkedin.com/in/joaolucaspereiraaaa4weui739487489b2711b1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:jpramalho07@outlook.com">
-    <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://outlook.live.com/mail/0/deeplink/compose?to=jpramalho07@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
 </p>
 
-
-
 <!-- TECH -->
-<h2 align="center">Technologies</h2>
+<h2 align="center">Tecnologias</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,anaconda,js,ts,html,css,react,nodejs,postgres,mongodb,git,github,linux" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,react,html,css,postgres,mongodb,git,github,linux" />
   </a>
 </p>
 
